@@ -1,2 +1,2 @@
 # Everyday_problems
-# This repository upload the codes for solving some daily challenge problems.
+# This repository uploads the codes for solving some daily challenge problems.
